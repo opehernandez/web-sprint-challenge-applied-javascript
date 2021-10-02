@@ -60,7 +60,12 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+A: The DOM is a neutral Programming interface that allows the developers to dinamically update the document being displayed to the user
 2. What is an event?
+A: An event is anything that happens dinamically on a web page, it could be the document finishing loading or a user clicking an element
 3. What is an event listener?
+A: An event listener is a function that usually waits for user input like a click or a mouse over to fire a function inside its body
 4. Why would we convert a NodeList into an Array?
+A: that is to use regular arrays methods that are not accesible to nodeLists
 5. What is a component?
+Components are basically reusable javascrip code that can be used over and over again. they work independently of your code and return HTML
